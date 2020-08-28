@@ -1,0 +1,350 @@
+temp,Column1,label
+42.3,0.2301558,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+44.1,0.2301558,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+46.3,0.3452337,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Calm
+52.5,0.4603116,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Calm
+52.5,0.5753895,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+56.1,0.5753895,Shirt | Pants | Jacket | Long Sleeves | Calm
+50.6,0.8055453,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+51.5,0.8055453,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Calm
+45.7,0.9206232,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+46.7,0.9206232,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+50.7,0.9206232,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+53.8,0.9206232,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Calm 
+55.6,0.9206232,Shirt | Pants | Jacket | Long Sleeves | Calm
+58.4,0.9206232,Shirt | Pants | Jacket | Long Sleeves | Calm
+59.2,0.9206232,Shirt | Pants | Jacket | Long Sleeves | Calm
+62.6,1.0357011,Shirt | Pants | Jacket | Long Sleeves | Calm
+42.6,1.150779,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+46.3,1.150779,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+57.5,1.150779,Shirt | Pants | Jacket | Long Sleeves | Light Air
+27.9,1.2658569,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+49.5,1.2658569,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+35.6,1.3809348,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+51.2,1.3809348,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+52.4,1.3809348,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+28.7,1.6110906,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+30.9,1.6110906,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+52,1.6110906,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Light Air
+55.9,1.6110906,Shirt | Pants | Jacket | Long Sleeves | Light Air
+58.6,1.6110906,Shirt | Pants | Jacket | Long Sleeves | Light Air
+27.2,1.7261685,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+28.8,1.7261685,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+48.5,1.7261685,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+53,1.7261685,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+55.1,1.7261685,Shirt | Pants | Jacket | Long Sleeves | Light Air
+55.7,1.7261685,Shirt | Pants | Jacket | Long Sleeves | Light Air
+57.9,1.7261685,Shirt | Pants | Jacket | Long Sleeves | Light Air
+26.2,1.8412464,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+28.5,1.8412464,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | LIght Air
+28.6,1.8412464,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+32.2,1.8412464,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+52.7,1.8412464,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+62,1.8412464,Shirt | Pants | Jacket | Long Sleeves | Light Air
+31.4,1.9563243,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+39.4,1.9563243,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+43.1,1.9563243,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+45.8,1.9563243,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+49.8,1.9563243,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+54,1.9563243,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+75.5,1.9563243,Shirt | Shorts | Light Air
+28.8,2.0714022,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+29.6,2.0714022,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+33.9,2.0714022,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+37.1,2.0714022,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+38.3,2.0714022,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+51,2.0714022,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+51.2,2.0714022,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+5.6,2.1864801,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+5.6,2.1864801,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+29.8,2.1864801,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+56.4,2.1864801,Shirt | Pants | Jacket | Long Sleeves | Light Air
+26.3,2.301558,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+29.8,2.301558,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+32.2,2.301558,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+41,2.301558,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+52.7,2.301558,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+57.5,2.301558,Shirt | Pants | Jacket | Long Sleeves | Light Air
+58.5,2.301558,Shirt | Pants | Jacket | Long Sleeves | Light Air
+30.5,2.4166359,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+31.5,2.4166359,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+33.8,2.4166359,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+34.2,2.4166359,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+37.1,2.4166359,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+37.4,2.4166359,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+40.8,2.4166359,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+50.6,2.4166359,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+51.9,2.4166359,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+52.2,2.4166359,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+36.5,2.5317138,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+73.5,2.5317138,Shirt | Shorts | Light Air
+44.2,2.6467917,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+46,2.6467917,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+15.2,2.7618696,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+15.2,2.7618696,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+25.8,2.7618696,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+32,2.7618696,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+33.5,2.7618696,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+40.4,2.7618696,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+41.7,2.7618696,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+52.8,2.7618696,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+52.9,2.7618696,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+43.1,2.8769475,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+50.9,2.8769475,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+56,2.8769475,Shirt | Pants | Jacket | Long Sleeves | Light Air
+59,2.8769475,Shirt | Pants | Jacket | Long Sleeves | Light Air
+34.9,2.9920254,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Air
+51.6,2.9920254,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Air 
+74.4,2.9920254,Shirt | Shorts | Light Air
+29.3,3.1071033,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+42.4,3.1071033,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+43.6,3.1071033,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+51.1,3.1071033,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+68.1,3.1071033,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+75.9,3.1071033,Shirt | Shorts | Light Breeze
+36.5,3.2221812,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+36.5,3.2221812,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+36.6,3.2221812,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+38.9,3.2221812,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+40.4,3.2221812,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+52.7,3.2221812,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+73.1,3.2221812,Shirt | Shorts | Light Breeze
+30.7,3.3372591,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+32.9,3.3372591,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+42.7,3.3372591,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+27.9,3.452337,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+35.7,3.452337,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+38.1,3.452337,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+75.5,3.452337,Shirt | Shorts | Light Breeze
+29.7,3.5674149,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Lught Breeze
+34.2,3.5674149,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+36.4,3.5674149,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+36,3.6824928,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+4.2,3.7975707,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+4.2,3.7975707,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+45.7,3.7975707,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+49,3.7975707,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+55.8,3.7975707,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+76.3,3.7975707,Shirt | Shorts | Light Breeze
+35.4,3.9126486,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+72.8,3.9126486,Shirt | Shorts | Light Breeze
+74.8,3.9126486,Shirt | Shorts | Light Breeze
+77.1,3.9126486,Shirt | Shorts | Light Breeze
+30.4,4.0277265,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+52.6,4.0277265,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+76.1,4.0277265,Shirt | Shorts | Light | Light Breeze
+28.6,4.1428044,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+70.7,4.1428044,Shirt | Shorts | Light Breeze 
+40.4,4.2578823,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+43,4.2578823,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+31.3,4.3729602,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+64.8,4.3729602,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+73.8,4.3729602,Shirt | Shorts | Light Breeze
+76.4,4.3729602,Shirt | Shorts | Light Breeze
+26.7,4.4880381,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+40,4.603116,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+56.1,4.603116,Shirt | Pants | Jacket | Long Sleeves | Light Breeze 
+76.5,4.603116,Shirt | Shorts | Light Breeze
+77.6,4.603116,Shirt | Shorts | Light Breeze
+51.2,4.7181939,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+74.8,4.7181939,Shirt | Shorts | Light Breeze
+29,4.8332718,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+31.2,4.9483497,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+36.9,4.9483497,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+36.9,4.9483497,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+75.7,4.9483497,Shirt | Shorts | Light Breeze 
+31.1,5.0634276,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+40,5.0634276,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+20.5,5.1785055,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+20.5,5.1785055,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+34.8,5.1785055,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+57.1,5.1785055,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+33.1,5.2935834,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+34.1,5.2935834,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+24.2,5.4086613,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+77.4,5.4086613,Shirt | Shorts | Light Breeze
+39.4,5.5237392,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+43.8,5.5237392,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+43.8,5.5237392,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf |Light Breeze
+72,5.6388171,Shirt | Shorts | Light Breeze
+75.5,5.6388171,Shirt | Shorts | Light Breeze
+23.9,5.753895,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+48.9,5.753895,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+55.5,5.753895,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+70.2,5.753895,Shirt | Shorts | Light Breeze
+77.1,5.753895,Shirt | Shorts | Light Breeze
+31.9,5.8689729,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask Light Breeze
+34.4,5.8689729,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+60.8,5.8689729,Shirt | Pants | Jacket | Long Sleeves Light Breeze
+68.4,5.8689729,Shirt | Pants | Jacket | Long Sleeves Light Breeze
+28.9,6.0991287,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+36.4,6.0991287,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+45.2,6.0991287,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Light Breeze
+75.7,6.2142066,Shirt | Shorts | Light Breeze
+76.8,6.2142066,Shirt | Shorts | Light Breeze
+63,6.3292845,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+64.9,6.3292845,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+71.3,6.3292845,Shirt | Shorts | Light Breeze
+23.1,6.4443624,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+26.3,6.4443624,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+37.9,6.4443624,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  |Light Breeze
+74.2,6.4443624,Shirt | Shorts | Light Breeze
+78.7,6.4443624,Shirt | Shorts | Light Breeze
+44.5,6.5594403,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+64.8,6.5594403,Shirt | Pants | Jacket | Long Sleeves | Light Breeze
+78.3,6.5594403,Shirt | Shorts | Light Breeze
+36.3,6.6745182,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+36.3,6.6745182,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+39.3,6.6745182,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+40.2,6.6745182,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+32.9,6.7895961,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Light Breeze
+47.4,6.904674,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Light Breeze
+76.8,6.904674,Shirt | Shorts | Light Breeze
+78.8,6.904674,Shirt | Shorts | Light Breeze
+46,7.0197519,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+68.1,7.0197519,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+78,7.0197519,Shirt | Shorts | Gentle Breeze
+30.1,7.1348298,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Gentle Breeze
+46.7,7.1348298,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+34.5,7.3649856,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Gentle Breeze
+39.3,7.3649856,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+72.8,7.3649856,Shirt | Shorts | Gentle Breeze
+32.8,7.4800635,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Gentle Breeze
+77.6,7.4800635,Shirt | Shorts | Gentle Breeze
+77.9,7.4800635,Shirt | Shorts | Gentle Breeze
+25,7.5951414,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Gentle Breeze
+48,7.5951414,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+77.4,7.5951414,Shirt | Shorts | Gentle Breeze
+39.5,7.7102193,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+43.5,7.7102193,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+69.8,7.7102193,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+78.1,7.8252972,Shirt | Shorts | Gentle Breeze
+68.4,7.9403751,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+78,8.1705309,Shirt | Shorts | Gentle Breeze
+24.2,8.2856088,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Gentle Breeze
+26,8.2856088,Sweater | Heavy Coat  | Hat | Scarf  | Boots | Mask | Gentle Breeze
+63.3,8.2856088,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+77.1,8.2856088,Shirt | Shorts | Gentle Breeze
+78.2,8.2856088,Shirt | Shorts | Gentle Breeze
+45,8.4006867,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+65.8,8.4006867,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+74.5,8.4006867,Shirt | Shorts | Gentle Breeze
+76,8.4006867,Shirt | Shorts | Gentle Breeze
+77.7,8.4006867,Shirt | Shorts | Gentle Breeze
+39.8,8.5157646,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+66.8,8.5157646,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+77.7,8.5157646,Shirt | Shorts | Gentle Breeze
+42.4,8.6308425,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+44.7,8.6308425,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+74.9,8.6308425,Shirt | Shorts | Gentle Breeze
+47.8,8.8609983,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+76.1,8.8609983,Shirt | Shorts | Gentle Breeze
+37.5,8.9760762,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+77.9,8.9760762,Shirt | Shorts | Gentle Breeze
+62.1,9.206232,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+69.5,9.206232,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+78.7,9.206232,Shirt | Shorts | Gentle Breeze
+72.2,9.3213099,Shirt | Shorts | Gentle Breeze
+78.5,9.4363878,Shirt | Shorts | Gentle Breeze
+67.3,9.5514657,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+71.1,9.6665436,Shirt | Shorts | Gentle Breeze
+77.9,9.6665436,Shirt | Shorts | Gentle Breeze
+78.4,9.6665436,Shirt | Shorts | Gentle Breeze
+78.5,9.7816215,Shirt | Shorts | Gentle Breeze
+78.7,9.7816215,Shirt | Shorts | Gentle Breeze
+67.8,10.0117773,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+77.5,10.1268552,Shirt | Shorts | Gentle Breeze
+77.9,10.2419331,Shirt | Shorts | Gentle Breeze
+40.1,10.357011,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+40.1,10.357011,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+70.9,10.4720889,Shirt | Shorts | Gentle Breeze
+78,10.4720889,Shirt | Shorts | Gentle Breeze
+72.1,10.5871668,Shirt | Shorts | Gentle Breeze
+63.1,10.7022447,Shirt | Pants | Jacket | Long Sleeves | Gentle Breeze
+78.4,10.7022447,Shirt | Shorts | Gentle Breeze
+42.6,10.8173226,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Gentle Breeze
+77.2,10.8173226,Shirt | Shorts | Gentle Breeze
+73.7,10.9324005,Shirt | Shorts | Gentle Breeze
+78.3,11.3927121,Shirt | Shorts | Gentle Breeze
+39,11.6228679,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Gentle Breeze
+73.3,11.7379458,Shirt | Shorts | Gentle Breeze
+78.9,11.8530237,Shirt | Shorts | Gentle Breeze
+40.1,11.9681016,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Gentle Breeze
+70.9,11.9681016,Shirt | Shorts | Gentle Breeze
+75.4,11.9681016,Shirt | Shorts | Gentle Breeze
+76.5,11.9681016,Shirt | Shorts | Gentle Breeze
+78.8,12.0831795,Shirt | Shorts | Moderate Breeze
+79.2,12.1982574,Shirt | Shorts | Moderate Breeze
+66.3,12.3133353,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+70.6,12.3133353,Shirt | Shorts | Moderate Breeze
+78.4,12.3133353,Shirt | Shorts | Moderate Breeze
+42.8,12.4284132,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf | Moderate Breeze
+76.8,12.4284132,Shirt | Shorts | Moderate Breeze
+76.5,12.5434911,Shirt | Shorts | Moderate Breeze
+70.4,12.658569,Shirt | Shorts | Moderate Breeze
+77.1,12.8887248,Shirt | Shorts | Moderate Breeze
+77.2,12.8887248,Shirt | Shorts | Moderate Breeze
+60.7,13.0038027,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+71.6,13.0038027,Shirt | Shorts | Moderate Breeze
+75.5,13.0038027,Shirt | Shorts | Moderate Breeze
+78.7,13.0038027,Shirt | Shorts | Moderate Breeze
+77,13.1188806,Shirt | Shorts Moderate Breeze
+64,13.2339585,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+77.7,13.2339585,Shirt | Shorts | Moderate Breeze
+78.3,13.2339585,Shirt | Shorts | Moderate Breeze
+76.8,13.3490364,Shirt | Shorts | Moderate Breeze
+77.7,13.3490364,Shirt | Shorts | Moderate Breeze
+60.1,13.4641143,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+65.8,13.4641143,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+78.1,13.4641143,Shirt | Shorts | Moderate Breeze
+78.5,13.4641143,Shirt | Shorts | Moderate Breeze
+82.1,13.5791922,Shirt | Shorts | Moderate Breeze
+69.9,13.6942701,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+66.4,14.0395038,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+71.7,14.0395038,Shirt | Shorts | Moderate Breeze
+66.9,14.2696596,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+68.8,14.2696596,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+78.1,14.2696596,Shirt | Shorts | Moderate Breeze
+77.2,14.3847375,Shirt | Shorts | Moderate Breeze
+70.4,14.4998154,Shirt | Shorts | Moderate Breeze
+78.2,14.4998154,Shirt | Shorts | Moderate Breeze
+77.4,15.0752049,Shirt | Shorts | Moderate Breeze
+83.6,15.0752049,Shirt | Shorts | Moderate Breeze
+66.9,15.1902828,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+69.9,15.1902828,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+71.4,15.4204386,Shirt | Shorts | Moderate Breeze
+78.3,15.4204386,Shirt | Shorts | Moderate Breeze
+81,15.4204386,Shirt | Shorts | Moderate Breeze
+79.1,15.5355165,Shirt | Shorts | Moderate Breeze
+67.9,15.6505944,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+71,15.6505944,Shirt | Shorts | Moderate Breeze
+70.3,15.7656723,Shirt | Shorts | Moderate Breeze
+79.5,15.7656723,Shirt | Shorts | Moderate Breeze
+77.9,16.110906,Shirt | Shorts | Moderate Breeze
+70.3,16.2259839,Shirt | Shorts | Moderate Breeze
+67.4,16.3410618,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+64.2,16.5712176,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+63.8,16.6862955,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+63.8,16.8013734,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+67.7,16.9164513,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+77.9,16.9164513,Shirt | Shorts | Moderate Breeze
+42,17.1466071,Sweater | Long Sleeves | Coat | Cardigan | Hat | Scarf  | Moderate Breeze
+69.9,17.3767629,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+70.1,17.4918408,Shirt | Shorts | Moderate Breeze
+76.8,17.9521524,Shirt | Shorts | Moderate Breeze
+66.1,18.0672303,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+71.3,18.7576977,Shirt | Shorts | Moderate Breeze
+65.2,18.8727756,Shirt | Pants | Jacket | Long Sleeves | Moderate Breeze
+76.5,19.4481651,Shirt | Shorts | Fresh Breeze
+72.9,19.7933988,Shirt | Shorts | Fresh Breeze
+64.5,19.9084767,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+69.9,19.9084767,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+64,20.0235546,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+67,20.9441778,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+67.7,20.9441778,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+72.7,21.0592557,Shirt | Shorts | Fresh Breeze
+67.7,21.9798789,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+70.7,22.4401905,Shirt | Shorts | Fresh Breeze
+72.9,23.01558,Shirt | Shorts | Fresh Breeze
+62.4,23.5909695,Shirt | Pants | Jacket | Long Sleeves | Fresh Breeze
+68.1,25.8925275,Shirt | Pants | Jacket | Long Sleeves | Strong Breeze
