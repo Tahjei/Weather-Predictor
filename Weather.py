@@ -2,24 +2,18 @@ from sklearn.tree import DecisionTreeClassifier
 import requests
 import pandas as pd
 
-API_key = "35221e928de70d1425a6dae04b36e346"
-
-# This stores the url
+# This stores the url this will ask the user to enter city ID and adds to the URL
+api_key = "35221e928de70d1425a6dae04b36e346"
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
-
-# This will ask the user to enter city ID
 zip_code = input("Enter a zip code: ")
-
-# This is final url. This is concatenation of base_url,
-Final_url = base_url + "appid=" + API_key + "&zip=" + zip_code
+final_url = base_url + "appid=" + api_key + "&zip=" + zip_code + "&units=imperial"
 
 # This variable contains the JSON data which the API returns
-weather_data = requests.get(Final_url).json()
+weather_data = requests.get(final_url).json()
 
 # Weather variables for test
 wind_speed = weather_data['wind']['speed']
 temp = weather_data['main']['temp']
-temp = (((temp - 273.15) * 9) / 5) + 32
 pressure = weather_data['main']['pressure']
 humidity = weather_data['main']['humidity']
 
