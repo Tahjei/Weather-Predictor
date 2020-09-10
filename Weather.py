@@ -20,7 +20,7 @@ humidity = weather_data['main']['humidity']
 
 def main():
     # This is the data that will supervise our decision tree
-    weather = pd.read_csv("Precipitation.csv", sep=",")
+    weather = pd.read_csv("WeatherData.csv", sep=",")
     X = weather.values[:, 0:2]
     Y = weather.values[:, 2:].reshape(-1, 1)
 
